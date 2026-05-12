@@ -64,5 +64,5 @@ pipeline {
         }
     }
 }
-
+https://my.slack.com/services/new/jenkins-ci
 after this run
